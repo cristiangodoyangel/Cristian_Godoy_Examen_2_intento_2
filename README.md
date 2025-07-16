@@ -1,7 +1,6 @@
-# 📊 Examen de Clasificación - Bank Marketing Dataset
+# 📊 Clasificación - Bank Marketing Dataset
 **Autor:** Cristian Andrés Godoy Angel  
 **Versión:** v1.0  
-**Fecha:** Julio 2025  
 
 ## 🧠 Objetivo
 Evaluar la capacidad de análisis, limpieza, exploración, modelado y evaluación en un dataset real de campañas de marketing bancario.  
