@@ -1,6 +1,4 @@
 # Clasificación - Bank Marketing Dataset
-**Autor:** Cristian Andrés Godoy Angel  
-**Versión:** v1.0  
 
 ## Objetivo
 Evaluar la capacidad de análisis, limpieza, exploración, modelado y evaluación en un dataset real de campañas de marketing bancario.  
@@ -54,4 +52,7 @@ Se busca predecir si un cliente se suscribirá a un depósito a plazo fijo, basa
 
 ## Reproducibilidad
 Todos los pasos están documentados y pueden ser ejecutados de principio a fin desde el archivo `.ipynb`.
+
+**Autor:** Cristian Andrés Godoy Angel  
+**Versión:** v1.0  
 
